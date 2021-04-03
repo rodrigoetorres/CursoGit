@@ -1,0 +1,14 @@
+h1{
+    background-color: coral;
+    color: beige;
+    width: fit-content;
+}
+
+p{
+    border-style: dotted;
+    border-color: black;
+}
+
+body{
+    background-color: beige;
+}
